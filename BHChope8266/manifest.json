@@ -1,8 +1,8 @@
 {
-  "name": "BHCHOPETRGB28",
+  "name": "BHCHOPE8266",
   "builds": [
     {
-      "chipFamily": "ESP32-S3",
+      "chipFamily": "ESP8266",
       "improv": false,
       "new_install_prompt_erase": true,
       "parts": [
