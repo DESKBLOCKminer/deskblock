@@ -2,7 +2,7 @@
   "name": "BHCHOPETRGB28",
   "builds": [
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32-S3",
       "improv": true,
       "new_install_prompt_erase": true,
       "parts": [

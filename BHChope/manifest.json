@@ -2,7 +2,7 @@
   "name": "BHCHOPE",
   "builds": [
     {
-      "chipFamily": "ESP32",
+      "chipFamily": "ESP32-S3",
       "improv": false,
       "new_install_prompt_erase": true,
       "parts": [
