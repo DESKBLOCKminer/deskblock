@@ -1,0 +1,13 @@
+{
+  "name": "BHCHOPE8266",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "improv": false,
+      "new_install_prompt_erase": true,
+      "parts": [
+        { "path": "merged_firmware.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
