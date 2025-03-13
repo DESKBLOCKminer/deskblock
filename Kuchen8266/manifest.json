@@ -1,0 +1,13 @@
+{
+  "name": "CONTROLEKUCHEN",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "improv": false,
+      "new_install_prompt_erase": true,
+      "parts": [
+        { "path": "firmware.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
