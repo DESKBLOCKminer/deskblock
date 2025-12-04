@@ -5,7 +5,7 @@
     {
       "chipFamily": "ESP32",
       "improv": false,
-      "new_install_prompt_erase": true,
+      "new_install_prompt_erase": false,
       "parts": [
         { "path": "FH_firmware_v1.bin", "offset": 0 }
       ]
