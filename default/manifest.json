@@ -1,14 +1,18 @@
 {
-  "name": "DESKBLOCK",
-  "version": "1.1",
-  "builds": [
-    {
-      "chipFamily": "ESP32",
-      "improv": false,
-      "new_install_prompt_erase": false,
-      "parts": [
-        { "path": "FH_firmware_v1.bin", "offset": 0 }
-      ]
-    }
-  ]
+"manifest_version": 1,
+"name": "DESKBLOCK",
+"version": "1.1",
+"builds": [
+  {
+    "chipFamily": "ESP32",
+    "improv": false,
+    "parts": [
+      {
+        "path": "FH_firmware_v1.bin",
+        "offset": 0,
+        "size": 8388608
+      }
+    ]
+  }
+]
 }
